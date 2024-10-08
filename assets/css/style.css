@@ -1198,7 +1198,7 @@ ul.list-group.info-details {
 }
 /*single page
 -------------------------------------------------------------- */
-.d-flex,.single-date-view{
+.single-date-view{
     justify-content: space-between;
     width: 200px;
     margin: 10px 0px;
