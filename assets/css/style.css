@@ -1196,3 +1196,13 @@ ul.list-group.info-details {
 .contact-form .form-control{
     font-size: 12px;
 }
+/*single page
+-------------------------------------------------------------- */
+.d-flex,.single-date-view{
+    justify-content: space-between;
+    width: 200px;
+    margin: 10px 0px;
+}
+.single-date-view p{
+    font-size: 12px;
+}
