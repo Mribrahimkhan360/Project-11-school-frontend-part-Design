@@ -1147,18 +1147,20 @@ ul.list-group.info-details {
 
 }
 .admission_btn {
-    width: 25%;
-    background: #ff7c00;
-    padding: 10px;
     display: grid;
     align-content: center;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    margin: auto;
+    /*width: 25%;
+    background: #ff7c00;
+    padding: 10px;
+    margin: auto;*/
 }
 .admission_btn a{
     color: white;
+    padding: 10px;
+    background-color: #ff7c00;
 }
 /*application_form
 -------------------------------------------------------------- */
