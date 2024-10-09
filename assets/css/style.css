@@ -519,6 +519,10 @@ header {
 
 /*event notice
 -------------------------------------------------------------- */
+.card_warp {
+    /* margin: 10px 5px; */
+    padding: 8px 7px;
+}
 .container_event_notice {
     background-color: #061c40;
 }
